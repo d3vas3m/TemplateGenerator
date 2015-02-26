@@ -13,6 +13,6 @@ Command:
 or
 ###python generate.py -py
 
-Screenshot:
+Screenshot:<br/>
 ![cmd](https://db.tt/tOWx4jlN?raw=true "TemplateGenerator")<br/>
 ![GVim](https://db.tt/uUZ5MATm?raw=true "GVim after executing commands")<br/>
