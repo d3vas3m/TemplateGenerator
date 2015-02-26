@@ -9,6 +9,10 @@ Run generate.bat from cmd or terminal.
 By default it uses -cpp, change it according to your use.
 For python change -cpp to -py.
 Command:
-##python generate.py -cpp
+###python generate.py -cpp
 or
-##python generate.py -py
+###python generate.py -py
+
+Screenshot:
+![cmd](https://db.tt/tOWx4jlN?raw=true "TemplateGenerator")<br/>
+![GVim](https://db.tt/uUZ5MATm?raw=true "GVim after executing commands")<br/>
