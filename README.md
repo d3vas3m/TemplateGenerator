@@ -5,7 +5,7 @@ topcoder, spoj,etc
 This program runs on both Linux and Windows.<br/>
 
 Usage:<br/>
-Run generate.bat from cmd or terminal.  <br/>
+Run generate.bat or generate.sh from cmd or terminal.  <br/>
 By default it uses -cpp, change it according to your use.  <br/>
 For python change -cpp to -py.  <br/>
 Command:  <br/>
